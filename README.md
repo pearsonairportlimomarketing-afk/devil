@@ -24,7 +24,7 @@ It demonstrates core game development concepts such as event handling, collision
    ```bash
    pip install pygame
 
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/pearsonairportlimomarketing-afk/snake-game.git
 python snake_game.py
 
 ---
